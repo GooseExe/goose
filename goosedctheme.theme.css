@@ -1,0 +1,40 @@
+/**
+ * @name goose dc theme
+ * @description Allows you to customize Discord's native Color Scheme.
+ * @author DevilBro
+ * @version 1.0.0
+ * @authorId 278543574059057154
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://mwittrien.github.io/
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 68,97,69;
+  --accentcolor2: 96,64,152;
+  --linkcolor: 0,176,244;
+  --mentioncolor: 0,136,68;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
+  --font: 0;
+  --backgroundaccent: 47,65,41;
+  --backgroundprimary: 15,29,17;
+  --backgroundsecondary: 11,22,13;
+  --backgroundsecondaryalt: 11,33,17;
+  --backgroundtertiary: 14,18,12;
+  --backgroundfloating: 18,49,23;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
